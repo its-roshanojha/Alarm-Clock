@@ -1,0 +1,3 @@
+# Alarm-Clock
+This alarm clock has Clock showing the current time (seconds,mins,hrs should change as time changes). There are some input boxes to set an alarm (hr,min,sec, am/pm). Once the time is set and clicked “Set Alarm” button, the alarm is added to the list below. When the alarm goes of  JS alert function is used to alert in the browser and a beeping sound starts which will be looping for about 15 secs. Moreover there will be having a delete option of each list item so that user can delete the alarm whenever he/she wants.
+https://its-roshanojha.github.io/Alarm-Clock/ - CUSTOM LINK FOR THE PROJECT
